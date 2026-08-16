@@ -7,8 +7,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nauvaldzakwanbaihaqi&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauvaldzakwanbaihaqi&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,10 +60,10 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Jackwan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jackwan&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
