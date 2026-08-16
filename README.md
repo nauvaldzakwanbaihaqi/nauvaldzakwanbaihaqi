@@ -4,7 +4,7 @@
 
 <p align="center">
   🔭 I’m currently working on <b>Freelance</b><br>
-  🌱 I’m currently learning <b>Nuxt JS, Smart Contract, and Solidity</b><br>
+  🌱 I’m currently learning <b>Smart Contract and Solidity</b><br>
   💬 Ask me about <b>Next.js, TypeScript, and Fullstack Architecture</b><br>
   📫 Reach me at: <b>nauvaldzakwanbaihaqi@gmail.com</b>
 </p>
