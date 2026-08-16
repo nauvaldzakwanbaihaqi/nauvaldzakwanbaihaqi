@@ -11,10 +11,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nauvaldzakwanbaihaqi&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauvaldzakwanbaihaqi&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nauvaldzakwanbaihaqi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="155" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nauvaldzakwanbaihaqi&layout=compact&theme=dracula" alt="Top Languages" height="155" />
+</p>
 
 ---
 
@@ -56,8 +56,8 @@
 
 ### 🐍 Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/snake-output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/snake-output/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/snake-output/snake.svg" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
