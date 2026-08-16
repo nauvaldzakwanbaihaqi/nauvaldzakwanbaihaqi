@@ -54,6 +54,12 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/snake-output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/snake-output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/nauvaldzakwanbaihaqi/nauvaldzakwanbaihaqi/snake-output/snake.svg" />
+</picture>
+
 ### 🐍 Activity
 
 <picture data-importer="pacman">
